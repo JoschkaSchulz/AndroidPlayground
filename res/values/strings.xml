@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidPlayground</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_text">Weiter...</string>
+    <string name="fragment1_listtitle">Testauswahl:</string>
+    <string name="fragment1_button_map">Map API 2.0 Test</string>
+    <string name="fragment1_button_listtest">Liste</string>
+    <string name="list_framgent_title">Listentest</string>
+    <string name="list_fragment_add">Hinzufügen</string>
+    <string name="list_fragment_remove">Entfernen</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="fragment1_button_intent">Starte MasterFlow Activity</string>
+
+</resources>
